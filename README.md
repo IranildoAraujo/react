@@ -1,17 +1,17 @@
-# react
+# ReactJS
 
-# O projeto foi criado no sistema operacional Ubuntu 22.04.4 LTS
+<h3 align="left"> O projeto foi criado no sistema operacional Ubuntu 22.04.4 LTS </h3>
 
-# Para inicializar o projeto é necessário fazer algumas instalações:
+<h3 align="left"> Para inicializar o projeto é necessário fazer algumas instalações: </h3>
 
 <div align="center">
     <img width="300" title="NodeJs + NPM" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-L_8A13X2zAfFIAJ3c3URvDpdYIb5MiRtEA&usqp=CAU"/>
 </div>
 
-<h1 align="left">
+<h3 align="left">
 NodeJs + NPM
 <br> 
-</h1>
+</h3>
 
 Como Instalar o Node.js com o Apt Usando o NodeSource
 Outra maneira de instalar o Node.js é usar um repositório Personal Package Archive (PPA), como o NodeSource. Em comparação com o repositório padrão do Ubuntu, o NodeSource oferece mais versões do Node.js.
@@ -49,6 +49,12 @@ Atualize a versão
 Limpe o cache
 > npm cache clean --force
 
+Após isso instale o pacote node_modules
+> npm install
+
+Iniciliaze o projeto
+> npm start
+
 <br>
 <div 
     style="
@@ -61,9 +67,5 @@ Limpe o cache
 
 - [hostinger](https://www.hostinger.com.br/tutoriais/instalar-node-js-ubuntu)
 - [github](https://github.com/nodesource/distributions)
+- [linkedin](https://www.linkedin.com/in/iranildo-ramos-82011988/)
 
-# Após isso instale o pacote node_modules
-> npm install
-
-# Iniciliaze o projeto
-> npm start
