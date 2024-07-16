@@ -1,0 +1,28 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: var(--card-height);
+  margin-right: 10px; 
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.card-container {
+  display: flex; 
+  overflow: hidden; /* Esconde o conteúdo que excede a altura */
+  transition: height 0.3s ease-in-out; /* Adiciona transição para a altura */
+}
+
+button {
+  margin-bottom: 10px; 
+}
