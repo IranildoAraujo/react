@@ -1,9 +1,0 @@
-.barra-card {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    height: 100%;
-    width: 100%;
-    background-color: #f5f5f5;
-}
